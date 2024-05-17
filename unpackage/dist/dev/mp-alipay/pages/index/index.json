@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "uni-app",
+  "usingComponents": {
+    "wd-drop-menu-item": "../../uni_modules/wot-design-uni/components/wd-drop-menu-item/wd-drop-menu-item",
+    "wd-drop-menu": "../../uni_modules/wot-design-uni/components/wd-drop-menu/wd-drop-menu"
+  }
+}

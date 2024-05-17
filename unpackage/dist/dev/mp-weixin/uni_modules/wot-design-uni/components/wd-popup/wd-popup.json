@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wd-overlay": "../wd-overlay/wd-overlay",
+    "wd-icon": "../wd-icon/wd-icon"
+  }
+}

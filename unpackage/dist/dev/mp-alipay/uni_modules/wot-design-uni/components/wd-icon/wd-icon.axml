@@ -1,0 +1,1 @@
+<view onTap="{{c}}" class="{{('data-v-24906af6') + ' ' + d}}" style="{{e}}"><image a:if="{{a}}" class="wd-icon__image data-v-24906af6" src="{{b}}"></image></view>

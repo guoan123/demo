@@ -1,0 +1,1 @@
+<view a:if="{{a}}" class="{{('data-v-af59a128') + ' ' + b}}" style="{{c}}" onTransitionEnd="{{d}}" onTap="{{e}}"><slot/></view>
